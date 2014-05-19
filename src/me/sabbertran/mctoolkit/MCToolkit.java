@@ -34,7 +34,6 @@ import java.util.logging.Logger;
 
 public class MCToolkit
 {
-
     private String command;
     private MCServer srv;
     private EventTimer evTimer;
